@@ -1,6 +1,7 @@
 ## ffmpeg batch conversion
 
 This is a quick and dirty script to convert batches of files using [ffmpeg](https://www.ffmpeg.org/)
+
 It will grab all files of a specified filetype in a folder, and convert them to your target filetype
 
 This example is to convert **FLAC audio to AIFF**
